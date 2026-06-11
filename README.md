@@ -7,7 +7,7 @@ Fullstack Developer
 I've been in love with coding since I was just 12 years old. What started as a curiosity has blossomed into a lifelong passion and career.
 
 * 🌍  I'm based in Sweden
-* 🚀  I'm currently working on [FullEventCalendar](http://fulleventcalendar.com)
+* 🚀  I'm currently working on varous personal projects & consulting to various firms.
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
